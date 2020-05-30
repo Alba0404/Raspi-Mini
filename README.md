@@ -3,7 +3,7 @@
 
 Ce projet a pour but d'utiliser un Minitel 1b comme écran et clavier d'un Raspberry-pi 3b+. Avoir un Minitel 1b est important car nous aurons besoin de la prise DIN pour la liaison et de la touche Fct pour passer en mode Télé-informatique et régler la connexion.
 
-
+![Screenshot](Images/screen2.jpg)
 
 ## Liaison série
 La connexion entre les 2 appareils se fait à l'aide d'une liaison série : USB du côté de l'ordinateur et DIN du côté du Minitel. Si il s'agit dans les deux cas d'une liaison série, le protocole est légèrement différent. Le Minitel fonctionne avec la norme TTL là où l'USB fonctionnne avec sa propre norme. Un convertisseur TTL <=> USB est donc nécessaire. J'utilise pour ce projet un FTDI232.
