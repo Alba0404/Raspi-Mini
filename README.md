@@ -10,13 +10,13 @@ La connexion entre les 2 appareils se fait à l'aide d'une liaison série : USB 
 
 ATTENTION : LE CONVERTISSEUR DOIT ETRE EN MODE 5V ET NON 3.3V !!!
 
- ![Screenshot](FTDI232.jpg)
+ ![Screenshot](Images/FTDI232.jpg)
  
  
  
  ## Hardware
 Un vieux câble DIN soudé à des connecteurs dupont femelle pour permet de lier le Minitel et le FTDI232. De l'autre côté un simple câble USB vers mini-USB suffit.
- ![Screenshot](cable.jpg)
+![Screenshot](Images/cable.jpg)
  
  
  ## Software
@@ -30,7 +30,7 @@ Un vieux câble DIN soudé à des connecteurs dupont femelle pour permet de lier
  
  Le sytème est prêt ! 
  La première ligne peut être illisible avec des caractères blancs, cela est normal, dés la 2e ligne tout entre dans l'ordre.
- ![Screenshot](screen1.jpg)
+ ![Screenshot](Images/screen1.jpg)
  
  Ces manipulations doivent être faites à chaque fois car le Minitel ne possède pas de mémoire pour stocker sa configuration actuelle :(.
  
